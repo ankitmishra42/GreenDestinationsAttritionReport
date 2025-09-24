@@ -47,26 +47,20 @@ The analysis explores how factors such as **age, tenure, and monthly income** af
 ## 🚀 How to Use
 1.Clone or download this repository:
    ```bash
-   git clone https://github.com/your-username/green-destinations-attrition.git
-   cd green-destinations-attrition
+   git clone https://github.com/ankitmishra42/GreenDestinationsAttritionReport.git
+   cd GreenDestinationsAttritionReport
    ```
 2.Explore the dataset and analysis scripts.
 
 3.Open the report file:
-    - Green_Destinations_Attrition_Report.pdf — contains detailed insights and recommendations.
+- Green_Destinations_Attrition_Report.pdf — contains detailed insights and recommendations.
 
 ## 📑 Deliverables
-
-    - Green_Destinations_Attrition_Report.pdf — Final project report
-
-    - Data preprocessing and analysis scripts (if included)
-
-    - README.md — Project documentation
+- Green_Destinations_Attrition_Report.pdf — Final project report
+- Green_Destinations_Attrition_Report(.pbix)
+- README.md — Project documentation
 
 ## 👤 Author
-
 ### Ankit Mishra
-
-    - Aspiring Data Analyst / Data Scientist
-
-    - Skilled in SQL, Python, Power BI, and Cloud (AWS)
+- Aspiring Data Analyst / Data Scientist
+- Skilled in SQL, Python, Power BI, and Cloud (AWS)
